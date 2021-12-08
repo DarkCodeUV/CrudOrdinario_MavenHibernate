@@ -1,6 +1,13 @@
 
 # CRUD usando MAVEN con HIBERNATE
 
+# Integrantes del equipo:
+
+- Corona Perez Oswaldo 
+- Montiel Martinez Leonardo Daniel
+- Zilli Rios Arturo
+
+
 # Base de datos
 
 **Crear base de datos**
